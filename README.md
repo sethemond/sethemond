@@ -22,6 +22,17 @@ Apartment-friendly solution for reducing VOC and ultrafine particle exposure fro
   <img src="Images/VOC_enclosure_filter.jpg" width="200" alt="Installed filtration system on 3D printer enclosure">
 </p>
 
+### [Modular Kitchen Drawer Organizer](https://github.com/sethemond/modular-drawer-organizer)
+
+Fully reconfigurable drawer organizer combining CNC-routed oak panels with 3D-printed press-fit connectors—no fasteners or adhesive required. Four connector types (coupler, elbow, T-junction, quad) plus a mid-span intersection connector allow arbitrary divider layouts that can be rearranged.
+
+<p align="center">
+  <img src="Images/drawer_organizer_Corner_Connector_Quad.jpg" width="200" alt="Installed filtration system on 3D printer enclosure">
+</p>
+<p align="center">
+  <img src="Images/drawer_organizer_usage_illustration.jpg" width="200" alt="Installed filtration system on 3D printer enclosure">
+</p>
+
 ### [Stabilization of Motorcycles with Spherical Wheels](https://github.com/sethemond/Control-Systems-Paper__Stabilization-of-Motorcycles-with-Spherical-Wheels)
 
 Control systems research developing dynamic models and stabilization strategies for a spherical-wheeled motorcycle platform—symbolic derivations with MATLAB/Simulink simulations demonstrating stabilization performance.
