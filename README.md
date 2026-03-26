@@ -41,4 +41,13 @@ Control systems research developing dynamic models and stabilization strategies 
   <img src="Images/motorcycle_stabilization_block_diagram.png" width="200" alt="Control system block diagram for spherical-wheeled motorcycle stabilization">
 </p>
 
+### [Python Simulation of GPS Inspired Pen Tracking](https://github.com/sethemond/2DTracking_Sim)
+
+A GPS-inspired 2D proof-of-concept simulation for indoor pen (or other object) tracking using acoustic CDMA ranging. Multiple fixed ultrasonic transmitters broadcast unique spreading codes; a microphone on the pen measures arrival-time differences to triangulate position — the same mathematics as GPS, scaled to a desktop work surface.
+
+<p align="center">
+  <img src="Images/sim2d_animation.gif" width="400" alt="2D Simulation Animation of Tracking">
+</p>
+
+
 ---
