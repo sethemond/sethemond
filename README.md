@@ -1,10 +1,16 @@
 # Seth Emond
 
-Welcome—take a look at my engineering projects below.
+Welcome — take a look at my engineering projects below.
+
+📄 [Resume](Seth%20Emond%20Resume.pdf)
 
 ---
 
 ## Projects
+
+### [Cycloidal Gearbox](https://github.com/sethemond/cycloidalGear) *(Work in Progress)*
+
+Low-cost parametric cycloidal gearbox designed for robotic arm joints. Full mechanical engineering workflow: parametric SolidWorks CAD, FEA validation, tolerance analysis, and GD&T documentation, targeting use as the primary transmission in a DIY large-format 3D printing and CNC robotic arm.
 
 ### [Filament Spool Scale](https://github.com/sethemond/filament-spool-scale)
 
