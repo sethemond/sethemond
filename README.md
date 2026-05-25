@@ -55,5 +55,15 @@ A GPS-inspired 2D proof-of-concept simulation for indoor pen (or other object) t
   <img src="Images/sim2d_animation.gif" width="400" alt="2D Simulation Animation of Tracking">
 </p>
 
+### [Claude-Powered Job Search Automation](https://github.com/sethemond/Claude_loop_job_search)
+
+Python automation system that uses Claude AI and the Indeed MCP to autonomously search, evaluate, and rank job listings across multiple locations and keywords. The defining feature is a long-horizon looping methodology: the system tracks session cost in real time, saves state cleanly when approaching limits, and resumes in the next session without duplicating work. Claude reads each job description, applies a configurable weighted tag system, and produces a three-tier ranking with red-flag summaries — all surfaced through a HTML/JavaScript dashboard.
+
+<p align="center">
+  <img src="Images/JobScout_Run.png" width="400" alt="Job Scout run control dashboard">
+</p>
+<p align="center">
+  <img src="Images/JobScout_JobsList.png" width="400" alt="Job Scout ranked jobs list">
+</p>
 
 ---
