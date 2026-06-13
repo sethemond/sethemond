@@ -2,7 +2,6 @@
 
 Welcome — take a look at my engineering projects below.
 
-📄 [Resume](Seth%20Emond%20Resume.pdf)
 
 ---
 
@@ -11,6 +10,10 @@ Welcome — take a look at my engineering projects below.
 ### [Cycloidal Gearbox](https://github.com/sethemond/cycloidalGear) *(Work in Progress)*
 
 Low-cost parametric cycloidal gearbox designed for robotic arm joints. Full mechanical engineering workflow: parametric SolidWorks CAD, FEA validation, tolerance analysis, and GD&T documentation, targeting use as the primary transmission in a DIY large-format 3D printing and CNC robotic arm.
+<p align="center">
+  <img src="Images/CycloidalGear_Assembled_Iso.jpg" width="200" alt="Cycloidal Gear Assembled Printed Prototype">
+  <img src="Images/Cycloidal_Gear_Phase_1- Motion GIF.gif" width="200" alt="Motion of cycloidal gearbox gif">
+</p>
 
 ### [Filament Spool Scale](https://github.com/sethemond/filament-spool-scale)
 
@@ -34,8 +37,6 @@ Fully reconfigurable drawer organizer combining CNC-routed oak panels with 3D-pr
 
 <p align="center">
   <img src="Images/drawer_organizer_Corner_Connector_Quad.jpg" width="200" alt="Installed filtration system on 3D printer enclosure">
-</p>
-<p align="center">
   <img src="Images/drawer_organizer_usage_illustration.jpg" width="200" alt="Installed filtration system on 3D printer enclosure">
 </p>
 
